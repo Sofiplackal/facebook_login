@@ -1,0 +1,113 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin:  0;
+    font-family: Helvetica Neue ,Arial, Helvetica, sans-serif;
+
+}
+.logo{
+     width: 50%;
+     padding-top: 32px;
+     float: left;
+}
+
+.login{
+    width: 50%;
+    float: left;
+}
+   
+.login-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue ,Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-control{
+    margin-left: 115px;
+
+}
+.login{
+    padding-top:10px ;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+
+.sub-btn:hover{
+    background: blue;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 30%;
+    float: left;
+   
+   
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8); 
+
+    
+    
+    width: 100%;
+    height: 100%;
+}
+
+.image{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.mobile{
+    width: 93%;
+}
+.birthday{
+    /* color: #577560; */
+    color: gray;
+}
+
+.end{
+    /* color: #577560; */
+    color: gray;
+    font-size: small;
+}
+.signup{
+    background: green;
+    color: #fff;
+    height: 30px;
+    width: 30%;
+    border-color: darkgreen;
+    cursor: pointer;
+}
+.span{
+     color: #3b5998;
+}
+
